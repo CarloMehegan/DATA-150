@@ -1,2 +1,3 @@
 # DATA-150
-For DATA 150, Human Development/Data Science
+#Carlo Mehegan
+For DATA 150, Human Development/Data Science section 1
