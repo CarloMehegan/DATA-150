@@ -1,4 +1,4 @@
-# The best stats you've ever seen by Hans Rosling
+# The best stats you've ever seen, by Hans Rosling
 ### Initial thoughts
   - Bias makes the students in the first survey test worse on average than picking answers at random\
   - The data doesn't show as much when organized by continent, but when organized by country you get much more nuance into what's going on
@@ -20,3 +20,5 @@
     - By starting with large groups of countries, like Sub-Saharan Africa, then breaking the data points down into their countries, then breaking them down into the classes of those countries, we see how diverse areas can be that we usually think of as the same throughout.
 - In your opinion, why was Hans Rosling's work on the Gapminder project significant to the remarkable process in the area of data science and human development?
     - Taking the data we have and presenting it in a format that is easy and engaging for anyone to understand is what makes the Gapminder project so powerful. There's no use to data if you can't efficiently analyze it, like Rosling does in this TED talk.
+
+[Back to main page](/README.md).
