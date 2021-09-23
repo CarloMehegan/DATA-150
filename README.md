@@ -6,3 +6,5 @@ For DATA 150, Human Development/Data Science section 1
 ### Informal responses
 - [Blumenstock](/JoshuaBlumenstock.md)
 - [Rosling](/HansRosling.md)
+- [Barder](/OwenBarder.md)
+- [Informal essay question](/SelimJahan.md)
