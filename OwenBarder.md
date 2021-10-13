@@ -10,3 +10,5 @@
     - This project is significant because it shows a way to improve a complex system: evolution. Jones mimicked the processes of real-life evolution in order to improve the cone, even though there were many factors affecting its performance. This kind of thinking could be applied to development.
 4.  Who was Haile Sellasie?  What is the significance of Kapuscinski’s book, The Emperor?  According to Barder, how did Ethiopia exemplify the suppression of emergent systemic change?  How do you think Sen would have described this suppression? Do you agree?
     - Haile Selassie was the last Emperor of Ethiopia, and ruled from 1930 to 1974. Kapuscinski's book details the life of Selassie, and makes his rule sound authoritative and dark. Barder explains that oppressive societies like these would extract wealth from the people they rule in order to maintain power and to prevent change that would lead to a better society. Since the elites were so powerful, and the people were unable to improve society, they were stuck in a deadlock. Sen would point out how development was being stifled by taking freedoms away from people.
+
+[Back to main page](/README.md).
