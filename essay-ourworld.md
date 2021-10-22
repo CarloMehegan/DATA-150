@@ -1,0 +1,16 @@
+- Like the Gapminder exploration, I am using this exploration to look into my annotated bibliography topic, internet growth in India, and see if I can find any new trends that can aid in my research.
+- [Share of population living in urban areas - Our World in Data](https://ourworldindata.org/grapher/share-of-population-urban?tab=chart&country=~IND)
+    - Interesting how urbanization has been growing at a steady rate for a long time. This graph looks very different from the graphs of internet growth in India. Is there any correlation between the two?
+    - Are both rural and urban areas are getting internet access?
+    - In 2017, ~33% of people lived in urban areas
+    - In 2017, ~33% of people had internet access
+    - If internet access is primarily being expanded in urban areas, then will the internet access figures start to slow down in coming years?
+-  [Mobile and fixed landline telephone subscriptions - Our World in Data](https://ourworldindata.org/grapher/mobile-and-fixed-landline-telephone-subscriptions?country=~IND) 
+    - I thought that looking at landline and telephone subscriptions in India would be a good way to predict the growth of the internet in the future, since the telephone could be seen as a precursor to the internet. However, the graphs look very different.
+    - Landline telephone subscriptions were available to less than 1% until around the 90s, and by the time they started to slowly grow, subscriptions were (likely, based on this graph) killed off by the massive growth of mobile phone use.
+    - While landline telephone subscriptions don't help predict how the internet age will expand, they do show that the internet's growth is unprecedented. While landline phones never caught on in India, mobile phones became extremely widespread.
+-  [Electricity access - Our World in Data](https://ourworldindata.org/grapher/share-of-the-population-with-access-to-electricity?tab=chart&country=~IND)
+    - Similar to the urbanization graph, electricity access seems to be growing steadily, at least within the ~25 years shown here.
+    - In 2019, ~97% of people have access to electricity
+    - I thought at first that, like the urbanization graph, internet growth could slow down if it starts to reach the same percentages as electricity access. However, almost everyone in India seems to have electricity access, which surprised me. 
+    - This could be promising for internet growth in the future. If electricity has expanded to the entire country, then the groundwork should be there to expand internet access to everyone as well. 
