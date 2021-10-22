@@ -1,0 +1,14 @@
+- Read this press article on the Belt and Road Initiative (BRI), a Chinese global infrastructure development plan.
+    - The Belt and Road Initiative is a Chinese infrastructure plan that spans the entire continent of Asia and into Europe and Africa. China is funding infrastructure in over 70 different countries, but they are putting those countries in debt to China.
+    - The article talks about AidData, a group from W&M, that has analyzed the debt caused by the BRI.
+- What are your thoughts, or more saliently, what questions do you have or what would you want to know/learn more about?
+    - I'd like to learn more about how the BRI started and how it got to this point
+    - What other intiatives or groups have put countries in debt like this?
+    - How much of the BRI's work is transparent?
+    - Has the BRI had a positive effect in the countries it has lent to? The article gives a few examples of people saying that the work they do is cheap
+    - Will B3W, the response to the BRI, also put countries in debt? What makes it better?
+- What responsibilities do you think the international community should have (if any) on such matters?  
+    - It's hard to say what the international community can do, and when it's right to intervene. China seems to be preying on developing countries in order to increase its reach. I think the B3W intiative could be an effective way to combat this, by providing an alternative for countries who could see the BRI as one of the only options for funding projects.
+    - The stipulations for China's loans are predatory. The article says that they have a higher interest than other lenders. 
+        - "AidData says on average [China] carries interest rates four times higher than [ones] offered by other bilateral lenders and maturity periods of a third as long."
+    - It could be possible for the international community to regulate loans like these and provide standard interest rates, or something along those lines.
