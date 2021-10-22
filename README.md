@@ -7,9 +7,11 @@ For DATA 150, Human Development/Data Science, section 01
 - [Blumenstock](/JoshuaBlumenstock.md)
 - [Rosling](/HansRosling.md)
 - [Barder](/OwenBarder.md)
-- [Essay question - Complexity](/SelimJahan.md)
-- [Essay question - About me](/essay-aboutme.md)
-- [Essay question - Gapminder exploration](/essay-gapminder.md)
+- [Gettysburg Address and Human Development](/SelimJahan.md)
+- [Personal Statement](/essay-aboutme.md)
+- [Gapminder Exploration](/essay-gapminder.md)
+- [Our World In Data Exploration](/essay-ourworld.md)
+- [China BRI](/essay-bri.md)
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
