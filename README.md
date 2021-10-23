@@ -12,6 +12,7 @@ For DATA 150, Human Development/Data Science, section 01
 - [Gapminder Exploration](/essay-gapminder.md)
 - [Our World In Data Exploration](/essay-ourworld.md)
 - [China BRI](/essay-bri.md)
+- [Data On Abundance](/essay-abundance.md)
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
