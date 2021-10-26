@@ -16,3 +16,4 @@ For DATA 150, Human Development/Data Science, section 01
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
+- [Literary Analysis](/LiteraryAnalysis.md)
