@@ -13,7 +13,7 @@ For DATA 150, Human Development/Data Science, section 01
 - [Our World In Data Exploration](/essay-ourworld.md)
 - [China BRI](/essay-bri.md)
 - [Data On Abundance](/essay-abundance.md)
-- [What Data Science Means]
+- [What Data Science Means](/essay-what-is-ds.md)
 - [Human Development Index](/essay-hdi.md)
 
 ### Assignments
