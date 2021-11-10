@@ -16,6 +16,7 @@ For DATA 150, Human Development/Data Science, section 01
 - [What Data Science Means](/essay-what-is-ds.md)
 - [Human Development Index](/essay-hdi.md)
 - [Future Discussion Ideas](/essay-topicideas.md)
+- [Facebook Deletes face books](/essay-facebook.md)
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
