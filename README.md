@@ -18,7 +18,7 @@ For DATA 150, Human Development/Data Science, section 01
 - [Human Development Index](/essay-hdi.md)
 - [Future Discussion Ideas](/essay-topicideas.md)
 - [Facebook Deletes face books](/essay-facebook.md)
-- [COVID Effects](/essay-upenn)
+- [COVID Effects](/essay-upenn.md)
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
