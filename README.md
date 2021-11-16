@@ -19,6 +19,7 @@ For DATA 150, Human Development/Data Science, section 01
 - [Future Discussion Ideas](/essay-topicideas.md)
 - [Facebook Deletes face books](/essay-facebook.md)
 - [COVID Effects](/essay-upenn.md)
+- [Self-Driving Cars](/essay-cars.md)
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
