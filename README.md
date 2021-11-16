@@ -13,10 +13,12 @@ For DATA 150, Human Development/Data Science, section 01
 - [Our World In Data Exploration](/essay-ourworld.md)
 - [China BRI](/essay-bri.md)
 - [Data On Abundance](/essay-abundance.md)
+### Informal responses part 2
 - [What Data Science Means](/essay-what-is-ds.md)
 - [Human Development Index](/essay-hdi.md)
 - [Future Discussion Ideas](/essay-topicideas.md)
 - [Facebook Deletes face books](/essay-facebook.md)
+- [COVID Effects](/essay-upenn)
 
 ### Assignments
 - [Annotated Bibliography](/AnnotatedBibliography.md)
