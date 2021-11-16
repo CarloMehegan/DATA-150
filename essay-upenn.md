@@ -1,0 +1,16 @@
+- 11/11 Essay: Read this  October 2020 article from UPenn that's a set of statements by faculty from a broad array of fields on the ways in which data and data science are contributing to or affecting their field with respect to COVID and the pandemic (hat tip to Rhea).
+- Write 1-2 paragraphs on the following: From what you know about your prospective major, what is a permanent or semi-permanent way the pandemic has affected your field of study or an aspect of culture or society related to your field? 
+    - Comp sci
+    - Teams have moved even more rapidly to remote workspaces out of necessity, and it will likely stay this way
+    - Since working remotely has skyrocketed, technology has become even more important in people's day to day
+    - With more people online, services are being stress tested
+    - With more people online, both more issues and more data is available to be used for research and data science
+    - Data science is affecting policy directly, COVID trends are being used for reopening plans
+- Do you believe the change is a net-positive or negative for society and why? 
+    - It's hard to say
+    - Remote workspaces can be good for some people, but difficult for others
+    - There is more data available, but if it's ethical to use it is difficult to answer. For example, many people are being forced to use Google Meets, etc. by their school/workspace, and they aren't necessarily consenting to their data being used.
+- What recommendations (if any) would you have for your field moving forward on the issue? For example, if you're a prospective business major, what are your thoughts on remote work and the use of office spaces and how businesses could think about "where" to work moving forward? Or, if you're a prospective psychology or sociology major, how has the virus and pandemic changed how people and societies view and react to germs?
+--- 
+- I think the acceptance of remote workspaces are a positive. As we go forward, I believe teams and companies will have to deal with a hybrid group of remote and in-person members. It will be a long time before many companies go back to fully in-person, or stick with fully remote. A hybrid is a good thing, because even though it might be difficult to gather everyone together for meetings, etc., everyone will be in a workspace that is comfortable for them.
+- I think the increase in the use of online services will have interesting results. The amount of data available from these services was already huge, but now there is even more that can be analyzed from a wider audience. This could improve how these services function and cater to different kinds of uses. For example, Google Meets was oriented towards businesses, but when classrooms started using it, Google added new functionality, like built-in survey and Q&A tools, to the service. I believe that online services will grasp this opportunity to bring in new users by catering to new audiences, especially marginalized, niche, or otherwise small ones, bringing better tools to these people, if done with thought.
