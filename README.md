@@ -25,3 +25,4 @@ For DATA 150, Human Development/Data Science, section 01
 - [Annotated Bibliography](/AnnotatedBibliography.md)
 - [Literary Analysis](/LiteraryAnalysis.md)
 - [Methodological Investigation](/MethodologicalInvestigation.md)
+- [Link to Presentation](https://docs.google.com/presentation/d/1oyE-znFs4coKlalDEoI59Ufh3TTbrYtaAXSEg5Sir-U/edit?usp=sharing)
