@@ -27,3 +27,4 @@ For DATA 150, Human Development/Data Science, section 01
 - [Methodological Investigation](/MethodologicalInvestigation.md)
 - [Project 4 Abstract](/PresentationAbstract.md)
 - [Link to Presentation](https://docs.google.com/presentation/d/1oyE-znFs4coKlalDEoI59Ufh3TTbrYtaAXSEg5Sir-U/edit?usp=sharing)
+- [Research Proposal](/ResearchProposal.md)
