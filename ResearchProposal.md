@@ -24,6 +24,10 @@
 | Program supervision (finished program) | 0.4 | 780 - x | 1 hr/day, 2 days a week, for 3 years |
 | Compiling traditional media data | 8 | 10 | 2 weeks |
 | Analyzing data | 8 | 25 | 5 weeks |
+
+(Note: if the above table does not show properly, view the Markdown file in Github)
+[Link to file in Github](https://github.com/CarloMehegan/DATA-150/blob/main/ResearchProposal.md)
+
 - Based on the above table, if we assume that x = 20 (4 weeks of troubleshooting), then we can estimate a total time of  884 hours to complete this project. This work will be split between two people
     - Person 1: Creating data collection program, troubleshooting, supervision, analyzing data
         - 524 hours
